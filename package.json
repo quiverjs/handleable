@@ -6,7 +6,7 @@
   },
   "name": "quiver-handleable",
   "desription": "Conversion functions between handlers and handleables",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/quiverjs/handleable",
   "repository": {
     "url": "git@github.com:quiverjs/handleable.git"
