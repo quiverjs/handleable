@@ -6,10 +6,13 @@
   },
   "name": "quiver-handleable",
   "desription": "Conversion functions between handlers and handleables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/quiverjs/handleable",
   "repository": {
     "url": "git@github.com:quiverjs/handleable.git"
+  },
+  "dependencies": {
+    "quiver-safe-callback": "~0.1.1"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/handleable/issues",
@@ -22,8 +25,5 @@
   "main": "./lib/handleable",
   "scripts": {
     "test": "make test"
-  },
-  "dependencies": {
-    "quiver-safe-callback": "~0.1.1"
   }
 }
